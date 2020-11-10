@@ -19,6 +19,8 @@ This SIG aims to coordinate projects and technologies necessary to enable the co
 - Ensure that users have operational instrumentation necessary to safely run a feature store in production.
 - Ensure that users have the documentation and tutorials necessary to both deploy, operate, and use a feature store.
 - Ensure that Kubeflow maintains a cohesive data tooling vision with respect to feature stores.
+- Ensure that users can contribute to and have access to a list of known working reference designs regarding hardware.
+- Ensure that users have access to a full stack of known interoperable versions and OSes for kube
 
 #### Cross-cutting and Externally Facing Processes
 
